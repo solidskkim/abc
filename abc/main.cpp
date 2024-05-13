@@ -15,8 +15,9 @@ using namespace std;
 /* Functions ------------------------------------------------------------------*/
 int main(void)
 {
-    cout << "Hello, world!" << endl;
     cout << "abc" << endl;
+
+    cout << "test" <<endl;
 
 
     return 0;
