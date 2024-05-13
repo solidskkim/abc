@@ -17,7 +17,7 @@ int main(void)
 {
     cout << "abc" << endl;
 
-    cout << "test" <<endl;
+    cout << "hello" <<endl;
 
 
     return 0;
